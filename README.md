@@ -6,6 +6,6 @@ To install, run the command in the terminal.
 
 wget -c https://github.com/sitehosters/VestaCP-MultiPHP/releases/download/2.0/install.sh
 
-chmod u+x install.sh
+chmod +x install.sh
 
 bash install.sh
