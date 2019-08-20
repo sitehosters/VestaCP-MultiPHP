@@ -4,7 +4,7 @@ This script installs MultiPHP versions in VESTACP for Ubuntu 16.04 or later. The
 
 To install, run the command in the terminal.
 
-wget -c https://github.com/sitehosters/VestaCP-MultiPHP/blob/master/install.sh
+wget -c https://github.com/sitehosters/VestaCP-MultiPHP/releases/download/2.0/install.sh
 
 chmod u+x install.sh
 
