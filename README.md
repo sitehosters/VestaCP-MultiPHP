@@ -1,6 +1,6 @@
 # VestaCP-PHPselector
 
-This script installs MultiPHP versions in VESTACP for Ubuntu 16.04 or later. The script supports PHP versions upto 7.2.
+This script installs MultiPHP versions in VESTACP for Ubuntu 16.04 or later. The script supports PHP versions upto 8.0.
 
 To install, run the command in the terminal.
 
