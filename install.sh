@@ -31,7 +31,7 @@ ln -s /usr/local/php/php/php-7.4.24 /usr/local/php/php74
 ln -s /usr/local/php/php/php-8.0.11 /usr/local/php/php80
 a2enmod actions cgi
 service apache2 restart
-wget -c https://github.com/sitehosters/VestaCP-MultiPHP/releases/download/1.0/vestacp.zip
+wget -c https://github.com/sitehosters/VestaCP-MultiPHP/releases/download/3.0/vestacp.zip
 unzip vestacp.zip
 rm vestacp.zip
 cd vestacp
