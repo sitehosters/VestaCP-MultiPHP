@@ -11,7 +11,7 @@ apt -y install tmux
 
 tmux
 
-wget -c https://github.com/sitehosters/VestaCP-MultiPHP/releases/download/2.0/install.sh
+wget -c https://github.com/sitehosters/VestaCP-MultiPHP/releases/download/3.0/install.sh
 
 chmod +x install.sh
 
